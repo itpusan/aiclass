@@ -46,4 +46,4 @@
 [Google](http://www.google.co.kr)
 
 ## 이미지
-![ex_screenshot](img/sanjinee_01.jpg)
+![pnu](img/sanjinee_01.jpg)
