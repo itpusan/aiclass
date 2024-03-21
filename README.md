@@ -46,4 +46,4 @@
 [Google](http://www.google.co.kr)
 
 ## 이미지
-![pnu](https://github.com/itpusan/aiclass/blob/main/img/sanjinee_01.jpg)
+![pnu](./img/sanjinee_01.jpg)
