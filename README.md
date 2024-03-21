@@ -44,3 +44,6 @@
 
 ## 링크
 [Google](http://www.google.co.kr)
+
+## 이미지
+![ex_screenshot](./img/screenshot.png)
