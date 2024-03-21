@@ -1,4 +1,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itpusan)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itpusan)](https://github.com/anuraghazra/github-readme-stats)
 # 안녕하세요, 성창규입니다!
 
 ## 👋 소개
